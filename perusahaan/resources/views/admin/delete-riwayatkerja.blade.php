@@ -3,5 +3,5 @@
     
 @section('content')
      <!-- Page Heading -->
-     <h1 class="h3 mb-4 text-gray-800">Delete - Riwayat Kerja</h1>
+     <h1 class="h3 mb-4 text-gray-800">Delete - Riwayat Kerja BLABLABLA</h1>
 @endsection
