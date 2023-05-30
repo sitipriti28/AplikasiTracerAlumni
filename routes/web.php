@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/delete-alumni', function () {
     return view('alumni/delete-riwayatkerja_alumni');
+    oke
 });
 Route::get('/kuesioner1', function () {
     return view('alumni/kuesioner1');
